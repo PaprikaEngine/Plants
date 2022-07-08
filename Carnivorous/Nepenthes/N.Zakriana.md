@@ -24,3 +24,7 @@
     - [Kinto Unitea](https://kinto.co.jp/collections/unitea/products/8336) 
 - 記録
 - ![345CB390-F700-468F-BA66-654328F0748D](https://user-images.githubusercontent.com/56258573/177916027-0f7a5705-7b55-457b-a64b-d59dcfbe0199.png)
+### 2022/07/02
+- 捕虫袋がついた
+- 捕虫袋に柄が入った
+- 記録![73D6304E-F403-47E9-8D0E-0C7BAB99FD58](https://user-images.githubusercontent.com/56258573/177926221-8653c780-68a1-4218-be2a-0b7012135c83.jpg)
