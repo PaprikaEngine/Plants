@@ -1,4 +1,4 @@
-# N.Zakriana
+# [N.Zakriana](https://en.wikipedia.org/wiki/Nepenthes_fusca)
 ---
 ## **Data**
 
@@ -12,11 +12,11 @@
 - *Pure Breed*
 ---
 ## **Cultivation record**
-### 2022/10/16
+### 2021/10/16
 - 受け取り
 - 記録
 ![EAC57A33-DA0D-4D61-AE70-B6DE736A7325](https://user-images.githubusercontent.com/56258573/177915711-b1554ca5-4265-4cef-b162-da6242da1e93.jpg)
-### 2022/10/23
+### 2021/10/23
 - 植え替え
   - 用土
     - 乾燥水苔
