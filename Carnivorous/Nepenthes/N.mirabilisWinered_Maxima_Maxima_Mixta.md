@@ -9,7 +9,10 @@
 ### Price
 * 3900
 ### Parent
-* Mirabilis-Winered x [Maxima x [Maxima x Mixta]]
+- Mirabilis-Winered 
+  - Maxima
+    - Maxima 
+    - Mixta
 ---
 ## **Cultivation record**
 ### 2022/07/06
