@@ -16,3 +16,4 @@
 - 受け取り
 - 記録
 
+![42BFABDA-17FE-475E-BAA9-41F75E45086A](https://user-images.githubusercontent.com/56258573/177913352-fac3e15a-a1c8-4332-bd8f-36f427fe549f.jpg)
