@@ -30,6 +30,7 @@
 
 
 ### 2022/07/03 
-- 土から葉っぱが出てきた![8DACB6B3-26C9-4EF7-809C-474E682E5F48](https://user-images.githubusercontent.com/56258573/177925900-38aafdb0-61dc-4728-b928-a2fc87d8863b.jpg)
+- 土から葉っぱが出てきた
+- 記録![8DACB6B3-26C9-4EF7-809C-474E682E5F48](https://user-images.githubusercontent.com/56258573/177925900-38aafdb0-61dc-4728-b928-a2fc87d8863b.jpg)
 
-- 記録
+
