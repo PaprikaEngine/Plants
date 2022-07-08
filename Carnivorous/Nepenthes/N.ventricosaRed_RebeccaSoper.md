@@ -8,7 +8,9 @@
 * 山田食虫植物農園
 ### Price
 * 2900
-
+### Parent
+- Ventricoda-Red
+- Rebecca Soper
 ---
 ## **Cultivation record**
 ### 2022/07/06
