@@ -9,8 +9,8 @@
 ### Price
 * 2900
 ### Parent
-- Ventricoda-Red
-- Rebecca Soper
+- Ventricosa-Red Highland
+- Rebecca Soper Highland
 ---
 ## **Cultivation record**
 ### 2022/07/06
