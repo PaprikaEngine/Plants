@@ -9,10 +9,11 @@
 ### Price
 * 3900
 ### Parent
-- Mirabilis-Winered 
-  - Maxima
-    - Maxima 
-    - Mixta
+- Mirabilis-Winered Lowland
+  - Maxima Highland
+    - Maxima Highland
+    - Mixta Highland x Lowland [^1]
+[^1]: MixtaはLowlandのN.NorthianaとHighlandのN.Maximaの交配種。天然に存在する交配種ではない。
 ---
 ## **Cultivation record**
 ### 2022/07/06
