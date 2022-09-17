@@ -7,7 +7,7 @@
 ### Purchase Location
 * 山田食虫植物農園
 ### Price
-* 2,500
+* 1,500
 ### Parent
 - *Pure Breed*
 ---
