@@ -1,19 +1,15 @@
-# [Agave Mix]()
+# [N.Rafflesiana](https://en.wikipedia.org/wiki/Nepenthes_rafflesiana)
+---
 ## **Data**
 
 ### Date  
-* 2023/06/02~
+* 
 ### Purchase Location
-* Seed Stock
+* ヤフオク
 ### Price
-* 450
+* 2,880
 ### Parent
 - *Pure Breed*
-### Breeding
-* seedling
-### Quantity
-* 10
-
 ---
 ## **Cultivation record**
-### 2023/06/02
+
